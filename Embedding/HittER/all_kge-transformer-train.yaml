@@ -1,0 +1,48 @@
+job.type: train
+dataset.name: all_kge
+
+train:
+  type: KvsAll
+  optimizer.default:
+    type: Adagrad
+    args:
+      lr: 0.2
+  lr_scheduler: ReduceLROnPlateau
+  lr_scheduler_args:
+    mode: max
+    patience: 5
+
+  max_epochs: 1000
+  batch_size: 256
+
+KvsAll:
+  query_types:
+    sp_: true
+    _po: false
+    s_o: false
+  
+model: transformer
+transformer:
+  encoder:
+    num_layers: 1
+    nhead: 8
+    dropout: 0.1
+lookup_embedder:
+  dim: 128
+  regularize_weight: 0.8e-7
+  initialize: normal_
+  initialize_args:
+    normal_:
+      mean: 0.0
+      std: 0.1
+
+eval:
+  type: entity_ranking
+  split: valid
+
+entity_ranking:
+  filter_splits: [train, valid]
+  filter_with_test: false
+  hits_at_k_s: [1, 3, 10, 100]
+  metrics_per:
+    head_and_tail: false
