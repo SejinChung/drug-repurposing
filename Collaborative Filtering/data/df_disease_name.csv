@@ -1,0 +1,206 @@
+,DOID,MeSH,Disease_name
+155,50156,D054990,Idiopathic Pulmonary Fibrosis
+252,50458,D054429,"Leukemia, Myelomonocytic, Juvenile"
+311,50547,C536911,Familial medullary thyroid carcinoma
+345,50589,D015212,Inflammatory Bowel Diseases
+406,50657,D006223,"Hamartoma Syndrome, Multiple"
+449,50700,D009202,Cardiomyopathies
+493,50746,D020522,"Lymphoma, Mantle-Cell"
+517,50771,D010673,Pheochromocytoma
+519,50773,D010235,Paraganglioma
+617,50873,D008224,"Lymphoma, Follicular"
+643,50902,D008527,Medulloblastoma
+649,50908,D009190,Myelodysplastic Syndromes
+792,60058,D008223,Lymphoma
+793,60060,D008228,"Lymphoma, Non-Hodgkin"
+794,60061,D016410,"Lymphoma, T-Cell, Cutaneous"
+915,60192,D003424,Crohn Disease
+947,60224,D001281,Atrial Fibrillation
+1041,60318,D015473,"Leukemia, Promyelocytic, Acute"
+1042,60319,D006323,Heart Arrest
+1125,60402,D054221,Classical Lissencephalies and Subcortical Band Heterotopias
+1322,60643,D015209,"Cholangitis, Sclerosing"
+1552,60901,D008258,Waldenstrom Macroglobulinemia
+3899,10003,D006319,"Hearing Loss, Sensorineural"
+3991,1024,D007918,Leprosy
+4003,10283,D011471,Prostatic Neoplasms
+4055,1040,D015451,"Leukemia, Lymphocytic, Chronic, B-Cell"
+4091,10534,D013274,Stomach Neoplasms
+4137,10629,D008850,Microphthalmos
+4146,10652,D000544,Alzheimer's disease
+4153,1067,D005902,"Glaucoma, Open-Angle"
+4173,10763,D006973,Hypertension
+4191,10808,D013276,Stomach Ulcer
+4202,10825,C562386,Essential Hypertension
+4220,10871,D008268,Macular Degeneration
+4231,10908,D006849,Hydrocephalus
+4238,10923,D000755,"Anemia, Sickle Cell"
+4243,10933,D009771,obsessive-compulsive disorder
+4250,1094,D001289,attention deficit hyperactivity disorder
+4258,10966,D009402,"Nephrosis, Lipoid"
+4292,11054,D001749,Urinary Bladder Neoplasms
+4326,11151,D041761,Cholecystolithiasis
+4410,11335,D012507,Sarcoidosis
+4430,11383,D003456,Cryptorchidism
+4435,11394,D012128,Respiratory Distress Syndrome
+4459,11476,D010024,Osteoporosis
+4526,1168,D006949,Hyperlipidemias
+4547,11723,D020388,"Muscular Dystrophy, Duchenne"
+4594,11832,D012640,Seizures
+4595,11836,D003025,Clubfoot
+4624,11934,D006258,Head and Neck Neoplasms
+4634,11984,D002312,hypertrophic cardiomyopathy
+4703,12176,D006042,Goiter
+4704,12177,D017074,Common Variable Immunodeficiency
+4723,12236,D008105,"Liver Cirrhosis, Biliary"
+4776,12361,D006111,Graves Disease
+4780,12365,D008288,Malaria
+4887,1273,D018357,Respiratory Syncytial Virus Infections
+4917,12849,D001321,autistic disorder
+4920,12858,D006816,Huntington Disease
+4926,12894,D012859,Sjogren's Syndrome
+4940,12930,D002311,"Cardiomyopathy, Dilated"
+5013,13141,D014605,Uveitis
+5028,1319,D001932,Brain Neoplasms
+5092,13375,D013700,temporal arteritis
+5157,13550,D015812,"Glaucoma, Angle-Closure"
+5241,1380,D016889,Endometrial Neoplasms
+5244,13809,D006950,"Hyperlipidemia, Familial Combined"
+5256,13832,D004374,"Ductus Arteriosus, Patent"
+5337,14067,D016778,"Malaria, Falciparum"
+5441,14330,D010300,Parkinson Disease
+5520,1459,D007037,Hypothyroidism
+5536,14693,D004476,Ectodermal Dysplasia
+5580,1485,D003550,Cystic Fibrosis
+5620,1574,D000437,alcohol use disorder
+5630,1588,D013921,Thrombocytopenia
+5632,1595,D003866,melancholic depression
+5633,1596,D003863,depressive disorder
+5638,1612,D001943,Breast Neoplasms
+5642,162,D009369,Neoplasms
+5673,1686,D005901,Glaucoma
+5687,1724,D004381,Duodenal Ulcer
+5700,1749,D002294,"Carcinoma, Squamous Cell"
+5717,178,D000783,Aneurysm
+5718,1781,D013964,Thyroid Neoplasms
+5727,1793,D010190,Pancreatic Neoplasms
+5740,1824,D013226,Status Epilepticus
+5742,1826,D004827,Epilepsy
+5761,1883,D006526,Hepatitis C
+5772,1909,D008545,Melanoma
+5793,1936,D050197,Atherosclerosis
+5802,1967,D007890,Leiomyosarcoma
+5824,2018,D006946,Hyperinsulinism
+5829,2030,D001008,anxiety disorder
+5833,2043,D006509,Hepatitis B
+5841,2055,D013313,post-traumatic stress disorder
+5861,2089,D003248,Constipation
+5896,2154,D009396,Wilms Tumor
+5909,219,D003110,Colonic Neoplasms
+5923,2224,D013920,"Thrombocythemia, Essential"
+5934,224,D002546,"Ischemic Attack, Transient"
+5958,2316,D002545,Brain Ischemia
+5972,2349,D001161,Arteriosclerosis
+5986,2378,D020529,"Multiple Sclerosis, Relapsing-Remitting"
+5993,2394,D010051,Ovarian Neoplasms
+6012,2452,D019851,Thrombophilia
+6025,2479,D014717,Vertigo
+6213,2841,D001249,Asthma
+6226,2871,D016889,Endometrial Neoplasms
+6231,2883,D011470,Prostatic Hyperplasia
+6235,289,D004715,Endometriosis
+6259,2957,D014397,"Tuberculosis, Pulmonary"
+6313,305,D002277,Carcinoma
+6317,3069,D001254,Astrocytoma
+6318,3070,D005910,Glioma
+6328,3083,D029424,"Pulmonary Disease, Chronic Obstructive"
+6330,3087,D005891,Gingivitis
+6425,3247,D012208,Rhabdomyosarcoma
+6434,326,D007511,Ischemia
+6465,331,D002493,Central Nervous System Diseases
+6466,3310,D003876,"Dermatitis, Atopic"
+6467,3312,D001714,bipolar disorder
+6493,3347,D012516,Osteosarcoma
+6506,3369,C563168,Askin Tumor
+6508,3371,D002813,Chondrosarcoma
+6591,3526,D002544,cerebral infarction
+6608,3571,D008113,Liver Neoplasms
+6672,3683,D008175,Lung Neoplasms
+6729,3770,D011658,Pulmonary Fibrosis
+6779,3892,D007340,Insulinoma
+6788,3908,D002289,"Carcinoma, Non-Small-Cell Lung"
+6789,3910,D000077192,Adenocarcinoma of Lung
+6805,3948,D018268,Adrenocortical Carcinoma
+6809,3953,D000310,Adrenal Gland Neoplasms
+6812,3962,D018263,"Adenocarcinoma, Follicular"
+6817,3969,D000077273,"Thyroid Cancer, Papillary"
+6819,3973,C536914,"Thyroid cancer, medullary"
+6848,4029,D005756,Gastritis
+6865,4051,D018232,"Rhabdomyosarcoma, Alveolar"
+6928,418,D012595,"Scleroderma, Systemic"
+6934,419,D012594,"Scleroderma, Localized"
+6960,4235,D012509,Sarcoma
+7035,4362,D002583,Uterine Cervical Neoplasms
+7056,4398,D011565,Psoriasis
+7082,4440,D018239,Seminoma
+7089,4450,D002292,"Carcinoma, Renal Cell"
+7093,446,D003480,Cushing Syndrome
+7106,4483,D012220,Rhinitis
+7187,4648,D012175,Retinoblastoma
+7381,4971,D055728,Primary Myelofibrosis
+7527,526,D015658,HIV Infections
+7626,5409,D055752,Small Cell Lung Carcinoma
+7691,552,D011014,Pneumonia
+7760,5614,D005128,Eye Diseases
+7906,5844,D009203,Myocardial Infarction
+7952,594,D016584,panic disorder
+7972,6000,D006333,Heart Failure
+7999,6039,C536494,Uveal Melanoma
+8126,635,D000163,Acquired Immunodeficiency Syndrome
+8129,6364,D008881,Migraine Disorders
+8150,6432,D006976,pulmonary hypertension
+8223,660,D000306,Adrenal Cortex Neoplasms
+8270,6713,D002561,Cerebrovascular Disorders
+8293,678,D013494,"Supranuclear Palsy, Progressive"
+8312,684,D006528,hepatocellular carcinoma
+8408,707,D016393,"Lymphoma, B-Cell"
+8438,7147,D013167,"Spondylitis, Ankylosing"
+8439,7148,D001172,"Arthritis, Rheumatoid"
+8444,7166,D013966,Thyroiditis
+8455,7188,D013967,"Thyroiditis, Autoimmune"
+8573,750,D010437,Peptic Ulcer
+8661,769,D009447,Neuroblastoma
+8763,7998,D006980,Hyperthyroidism
+8937,8469,D007251,"Influenza, Human"
+8951,850,D008171,Lung Diseases
+8972,8534,D005764,Gastroesophageal Reflux
+8977,8543,D006689,Hodgkin Disease
+8987,8566,D006561,Herpes Simplex
+8993,8577,D003093,"Colitis, Ulcerative"
+8996,8584,D002051,Burkitt Lymphoma
+9012,8632,D012514,"Sarcoma, Kaposi"
+9043,8691,D009182,Mycosis Fungoides
+9085,8864,D007948,"Leukemia, Monocytic, Acute"
+9101,8923,D000096142,"Melanoma, Cutaneous Malignant"
+9102,8924,D016553,"Purpura, Thrombocytopenic, Idiopathic"
+9124,8997,D011087,Polycythemia Vera
+9128,9008,D015535,"Arthritis, Psoriatic"
+9142,9065,D007896,Leishmaniasis
+9145,9074,D008180,"Lupus Erythematosus, Systemic"
+9158,9119,D015470,"Leukemia, Myeloid, Acute"
+9159,9120,D000686,Amyloidosis
+9202,9253,D046152,Gastrointestinal Stromal Tumors
+9248,9351,D003920,Diabetes Mellitus
+9249,9352,D003924,"Diabetes Mellitus, Type 2"
+9278,9428,D019586,Intracranial Hypertension
+9297,9477,D011655,pulmonary embolism
+9320,9538,D009101,Multiple Myeloma
+9332,9563,D001987,Bronchiectasis
+9398,9744,D003922,"Diabetes Mellitus, Type 1"
+9411,9778,D043183,Irritable Bowel Syndrome
+9448,986,D000506,Alopecia Areata
+9453,987,D000505,Alopecia
+9459,9884,D009136,Muscular Dystrophies
+9493,9970,D009765,Obesity
+9506,999,D004802,Eosinophilia
+9507,9993,D007003,Hypoglycemia
